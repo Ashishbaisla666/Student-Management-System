@@ -114,6 +114,6 @@ Future Improvements
 
 Author
 
-Chitra Gautam
+Ashish Baisla
 
-B.Tech (Information Technology) | Aspiring Java Backend Developer
+B.Tech (Computer Science and Engineering) | Aspiring Java Backend Developer
